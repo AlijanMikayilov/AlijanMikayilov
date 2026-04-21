@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.gif" alt="banner" />
+  <img src="banner.png" alt="banner" />
 </p>
 
 <h1 align="center">Alijan Mikayilov</h1>
