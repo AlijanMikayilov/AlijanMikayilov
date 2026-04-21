@@ -11,11 +11,9 @@
 ---
 
 ## 🚀 About Me
-- 🎮 Game Developer (Unity & Unreal Engine)
-- 💻 C++, C#, Python ilə işləyirəm
-- 🌍 Azerbaijan (Razin)
-- 🧩 Gameplay systems, architecture və clean code fokus
-- 📈 Continuous learning mindset
+- 🎮 Game Developer
+- 💻 Languages: C++, C#, Python
+- 🎓 Studying at Azerbaijan University (3rd)
 
 ---
 
