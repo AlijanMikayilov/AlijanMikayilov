@@ -17,14 +17,6 @@
 
 ---
 
-## 🛠 Tech Stack
-- Unity (C#)
-- Unreal Engine (C++)
-- Python (tools / automation / scripting)
-- Git & GitHub
-
----
-
 ## 📊 Game Profiles
 
 <p align="center">
