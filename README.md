@@ -2,40 +2,47 @@
   <img src="banner.gif" alt="banner" />
 </p>
 
-<h1 align="center">Hi 👋 I'm Alican</h1>
+<h1 align="center">✨ About Me ✨</h1>
 
 <p align="center">
-  💻 Developer | 🚀 Builder | 🎮 Game Dev Enthusiast
+  🌸 My name is <b>Alijan Mikayilov</b>  
+</p>
+
+<p align="center">
+  🎂 Born: 2006 / 08 / 03  
+</p>
+
+<p align="center">
+  🎓 I am currently a 3rd year university student in Azerbaijan
 </p>
 
 ---
 
-### 🧠 About Me
-- 🔭 Hal-hazırda üzərində işləyirəm: Unity / Backend / AI (istədiyini yaz)
-- 🌱 Öyrənirəm: Unreal Engine / Advanced C++
-- ⚡ Maraqlarım: oyunlar, sistemlər, optimizasiya
+### 🌙 About Me
+I am a passionate developer who enjoys building systems, learning new technologies and improving my skills every day.  
+I spend most of my free time exploring code, games, and competitive environments.
+
+I enjoy playing:
+- 🎮 Steam games  
+- 🔫 Valorant  
+- 🧠 Faceit competitive matches  
 
 ---
 
-### 🛠️ Tech Stack
-- Languages: C++, C#, Python
-- Game Engine: Unity / Unreal Engine
-- Tools: Git, GitHub, VS Code
+### 📊 Game Profiles
+- 🎮 Steam: https://steamcommunity.com/id/YOUR_ID
+- 🔫 Valorant Tracker: https://tracker.gg/valorant/profile/riot/YOUR_ID
+- ⚔️ Faceit: https://www.faceit.com/en/players/YOUR_ID
 
 ---
 
-### 📊 GitHub Stats
+### 📬 Contact
+- 📧 Email: yourmail@gmail.com  
+- 📸 Instagram: https://instagram.com/YOUR_USERNAME  
+- 💬 Discord: YOUR_DISCORD_TAG
+
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
-</p>
-
----
-
-### 💬 Fun Zone
-> “Code yazanda gecə 3 olur, sonra niyə yorğunam deyirəm…” 😌
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" />
 </p>
