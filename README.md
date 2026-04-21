@@ -6,16 +6,16 @@
 --- 
 
 ### 📊 Game Profiles
-- 🎮 Steam: https://steamcommunity.com/id/YOUR_ID
-- 🔫 Valorant Tracker: https://tracker.gg/valorant/profile/riot/YOUR_ID
-- ⚔️ Faceit: https://www.faceit.com/en/players/YOUR_ID
+- 🎮 Steam: https://steamcommunity.com/id/76561199542852971
+- 🔫 Valorant Tracker: https://tracker.gg/valorant/profile/riot/would#lost
+- ⚔️ Faceit: https://www.faceit.com/en/players/Aimuxer
 
 ---
 
 ### 📬 Contact
-- 📧 Email: yourmail@gmail.com  
-- 📸 Instagram: https://instagram.com/YOUR_USERNAME  
-- 💬 Discord: YOUR_DISCORD_TAG
+- 📧 Email: alijan.mikayilov@gmail.com  
+- 📸 Instagram: https://instagram.com/a7icann  
+- 💬 Discord: a7ican
 
 ---
 
