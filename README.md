@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center"> Alijan Mikayilov </h1>
---- 
 
 ### 📊 Game Profiles
 - 🎮 Steam: [https://steamcommunity.com/id/76561199542852971](https://steamcommunity.com/profiles/76561199542852971)
