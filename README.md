@@ -38,9 +38,12 @@
 ---
 
 ## 📬 Contact
-- 📧 Email: alijan.mikayilov@gmail.com  
-- 📸 Instagram: https://instagram.com/a7icann  
-- 💬 Discord: a7ican  
+
+[![Email](https://img.shields.io/badge/Email-alijan.mikayilov%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alijan.mikayilov@gmail.com)
+
+[![Instagram](https://img.shields.io/badge/Instagram-a7icann-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/a7icann)
+
+[![Discord](https://img.shields.io/badge/Discord-a7ican-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/a7ican)
 
 ---
 
