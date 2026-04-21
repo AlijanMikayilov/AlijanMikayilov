@@ -2,32 +2,8 @@
   <img src="banner.gif" alt="banner" />
 </p>
 
-<h1 align="center">✨ About Me ✨</h1>
-
-<p align="center">
-  🌸 My name is <b>Alijan Mikayilov</b>  
-</p>
-
-<p align="center">
-  🎂 Born: 2006 / 08 / 03  
-</p>
-
-<p align="center">
-  🎓 I am currently a 3rd year university student in Azerbaijan
-</p>
-
----
-
-### 🌙 About Me
-I am a passionate developer who enjoys building systems, learning new technologies and improving my skills every day.  
-I spend most of my free time exploring code, games, and competitive environments.
-
-I enjoy playing:
-- 🎮 Steam games  
-- 🔫 Valorant  
-- 🧠 Faceit competitive matches  
-
----
+<h1 align="center"> Alijan Mikayilov </h1>
+--- 
 
 ### 📊 Game Profiles
 - 🎮 Steam: https://steamcommunity.com/id/YOUR_ID
