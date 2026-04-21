@@ -2,26 +2,45 @@
   <img src="banner.gif" alt="banner" />
 </p>
 
-<h1 align="center"> Alijan Mikayilov </h1>
+<h1 align="center">Alijan Mikayilov</h1>
+
+<p align="center">
+  🎮 Game Developer | 🧠 Unity & Unreal Engine | 💻 C++ • C# • Python
+</p>
+
+---
+
 ## 🚀 About Me
 - 🎮 Game Developer (Unity & Unreal Engine)
 - 💻 Programming Languages: C++, C#, Python
-- 🌍 Based in Razin
----
-### 📊 Game Profiles
-- 🎮 Steam: [https://steamcommunity.com/id/76561199542852971](https://steamcommunity.com/profiles/76561199542852971)
-- 🔫 Valorant Tracker: [https://tracker.gg/valorant/profile/riot/would#lost](https://tracker.gg/valorant/profile/riot/would%23lost/overview?platform=pc&playlist=competitive&season=9d85c932-4820-c060-09c3-668636d4df1b)
-- ⚔️ Faceit: https://www.faceit.com/en/players/Aimuxer
+- 🌍 Based in Azerbaijan (Razin)
+- 🧩 Focused on gameplay systems, mechanics & clean architecture
+- 📈 Always learning, always improving
 
 ---
 
-### 📬 Contact
+## 🛠 Tech Stack
+- Unity (C#)
+- Unreal Engine (C++)
+- Python (automation / scripting / tools)
+- Git & GitHub
+
+---
+
+## 📊 Game Profiles
+- 🎮 Steam: https://steamcommunity.com/profiles/76561199542852971  
+- 🔫 Valorant Tracker: https://tracker.gg/valorant/profile/riot/would%23lost/overview?platform=pc&playlist=competitive&season=9d85c932-4820-c060-09c3-668636d4df1b  
+- ⚔️ Faceit: https://www.faceit.com/en/players/Aimuxer  
+
+---
+
+## 📬 Contact
 - 📧 Email: alijan.mikayilov@gmail.com  
 - 📸 Instagram: https://instagram.com/a7icann  
-- 💬 Discord: a7ican
+- 💬 Discord: a7ican  
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" />
 </p>
