@@ -1,1 +1,1 @@
-![Banner](Wallpaper programmer.jpg)
+![Banner](banner.jpg)
