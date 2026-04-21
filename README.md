@@ -3,7 +3,11 @@
 </p>
 
 <h1 align="center"> Alijan Mikayilov </h1>
-
+## 🚀 About Me
+- 🎮 Game Developer (Unity & Unreal Engine)
+- 💻 Programming Languages: C++, C#, Python
+- 🌍 Based in Razin
+---
 ### 📊 Game Profiles
 - 🎮 Steam: [https://steamcommunity.com/id/76561199542852971](https://steamcommunity.com/profiles/76561199542852971)
 - 🔫 Valorant Tracker: [https://tracker.gg/valorant/profile/riot/would#lost](https://tracker.gg/valorant/profile/riot/would%23lost/overview?platform=pc&playlist=competitive&season=9d85c932-4820-c060-09c3-668636d4df1b)
